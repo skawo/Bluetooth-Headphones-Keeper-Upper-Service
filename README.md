@@ -2,7 +2,7 @@
 A service that prevents Bluetooth headphones from shutting off.
 
 Some of the cheaper Bluetooth headphones will cut off the beginning of the sound, if said sound happens after a bout of silence.
-Some may also have a hearable difference for sound being off and sound being on, which can be annoying.
+Some may also have a hearable difference for sound being off and sound being on, due to amp being turned on and off which can be annoying.
 
 This prevents both of these issues by simply playing a silent looping sound in the background. It's a service, so it
 will start automatically whenever you turn on your computer.
